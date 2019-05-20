@@ -15,6 +15,8 @@ git@github.com:DarkblueTang/leetcode-android.git
 
 cd leetcode-android.git
 
+npm install
+
 react-native run-android
 ```
 
