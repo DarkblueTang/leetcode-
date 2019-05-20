@@ -1,5 +1,5 @@
-# leetcode-
-自己制作的一个leetcode客户端，主要用于学习。
+# leetcode-Android
+自己制作的一个leetcode安卓客户端，主要用于学习。
 
 ## 依赖
 本项目基于react-native，请自行安装如下命令：
